@@ -1,6 +1,6 @@
 """Defines constants to be used throughout the code."""
 
-SURVEY_JS_VERSION = "1.9.81"
+SURVEY_JS_VERSION = "1.9.106"
 
 SURVEY_JS_CDN = "https://unpkg.com"
 
